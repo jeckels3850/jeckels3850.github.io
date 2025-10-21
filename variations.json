@@ -1,32 +1,27 @@
 [
   {
-    "title": "Welcome to Our Beach Retreat",
-    "subtitle": "Find your calm by the sea.",
-    "color": "#1E90FF",
-    "image": "https://source.unsplash.com/featured/?beach"
+    "title": "Daily Words of Wisdom",
+    "subtitle": "Life is short, so love, love love!",
+    "color": "#1E90FF"
   },
   {
-    "title": "Mountain Escape",
-    "subtitle": "Adventure awaits in the peaks.",
-    "color": "#2E8B57",
-    "image": "https://source.unsplash.com/featured/?mountain"
+    "title": "Daily Words of Wisdom",
+    "subtitle": "If it comes, let it. If it goes, let it..",
+    "color": "#2E8B57"
   },
   {
-    "title": "City Lights Experience",
-    "subtitle": "Discover the beauty of the night skyline.",
-    "color": "#483D8B",
-    "image": "https://source.unsplash.com/featured/?city,night"
+    "title": "Daily Words of Wisdom",
+    "subtitle": "Don't lose this moment searching for another.",
+    "color": "#483D8B"
   },
   {
-    "title": "Desert Dreamscape",
-    "subtitle": "Golden sands and endless horizons.",
-    "color": "#DAA520",
-    "image": "https://source.unsplash.com/featured/?desert"
+    "title": "Daily Words of Wisdom",
+    "subtitle": "Old keys won't open new doors.",
+    "color": "#DAA520"
   },
   {
-    "title": "Forest Hideaway",
+    "title": "Daily Words of Wisdom",
     "subtitle": "Lose yourself in the whispers of the trees.",
-    "color": "#006400",
-    "image": "https://source.unsplash.com/featured/?forest"
+    "color": "#006400"
   }
 ]
